@@ -17,9 +17,11 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "weather",
 	Short: "A weather app for your cli. Get weather information in your terminal.",
-	Long: `Use it to retrieve and display weather data on your cli.
+	Long: `
+A weather app for your cli. Get weather information in your terminal. 
+Use it to retrieve and display weather data on your cli.
 	
-	E.g., '% weather --zip=90210'
+E.g., '% weather --zip=90210'
 	`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:

@@ -1,6 +1,5 @@
 /*
 Copyright © 2025 Nicholas Bannister-Andrews
-
 */
 package main
 
